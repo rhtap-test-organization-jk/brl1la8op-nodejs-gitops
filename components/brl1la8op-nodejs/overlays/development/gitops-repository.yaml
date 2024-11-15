@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: brl1la8op-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/brl1la8op-nodejs-gitops
